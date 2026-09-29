@@ -6,7 +6,7 @@ title: CART 470 Project Journal
 
 ## Journal Entry Week 3
 
-### Meeting with VK Preston and here is how it went
+### Meeting with VK Preston and here is how it went:
 
 ## What We Discussed As a Team
 
