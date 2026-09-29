@@ -1,4 +1,4 @@
-## Project Focus  
+## Project Focus 
 Falls / Chutes is an ongoing multimedia digital installation piece exploring themes of collective crisis, intergenerational memory, and mourning through the four seasons. We are tasked with creating a web-based publication that incorporates the imagery, audio, and text of the greater artwork while also providing information about the exhibition. We are encouraged to explore novel ways of accessing and interacting with works online.
 
 ## Overall Objectives
@@ -49,7 +49,7 @@ Test the website with attention to readability, navigation, media accessibility,
 
 Activity outcome: Identify and address usability or accessibility issues before the final presentation of the website. 
 
-**Milestones**  
+## Milestones 
 Milestone \#1  
 Our first milestone will be to organize the images and Miro template that was given to us by VK Preston, into a flow-like state that also works for a more technical website. This milestone will allow us to have the aesthetics of the website and know which elements lead to the next element for everything to seamlessly work together.
 
