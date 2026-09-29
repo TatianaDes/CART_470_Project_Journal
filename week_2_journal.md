@@ -16,7 +16,7 @@ title: CART 470 Project Journal
 ### Our Project
 VK Preston's "Falls / Chutes Prototypes Performative Publishing."
 
-# What We Discussed As a Team
+## What We Discussed As a Team
 
 ## Concept
 VK Preston is making a project about the lack of support and resources that caregivers receive during a time of struggle with an older parent especially during COVID-19. Creating this website would make the audience aware of this issue as well as find a sense of comfort for the people who also experienced this issue as well.
