@@ -61,7 +61,7 @@ Test the website with attention to readability, navigation, media accessibility,
 Activity outcome: Identify and address usability or accessibility issues before the final presentation of the website. 
 
 ## Milestones 
-Milestone \#1  
+### Milestone \#1  
 Our first milestone will be to organize the images and Miro template that was given to us by VK Preston, into a flow-like state that also works for a more technical website. This milestone will allow us to have the aesthetics of the website and know which elements lead to the next element for everything to seamlessly work together.
 
 Activities:
@@ -77,7 +77,7 @@ Outcomes:
 * Have a revised product of the visual elements and aesthetics of the website that fits the emotion and depth of this project.  
 * Have a fully functional and usable UX design for the website.
 
-Milestone \#2  
+### Milestone \#2  
 Our second milestone focuses on the technical side of the website, where we will find a website format that would work for its technical components as well as its more visual and abstract components. In this technical portion, the website will only have placeholder text and images.
 
 Activities:
@@ -93,7 +93,7 @@ Outcomes:
 * Have VK Preston and the team fully capable of navigating the website and understanding where everything will be.  
 * Have a fully functional UI design of the website that everyone understands how to use.
 
-Milestone \#3  
+### Milestone \#3  
 Our last milestone will be to put both the components from the first milestone and the second milestone together.
 
 Activities:
