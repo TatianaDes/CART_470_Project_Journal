@@ -76,3 +76,27 @@ What should we aim for for next week?
 For next weeks class on September 30th at 10:30a.m., VK Preston will pick us up from class and we will go to the Visualization Studio that is in the Library in room 314.
 
 ## Our Team Calls and Discussions
+From our conversation with VK Preston, we made plans to write the Living Learning Contract by splitting of roles. Finally we would have a call two more times to finalize the contract.
+
+### The first meeting occured on Saturday, September 26th
+We discussed:
++ Our part in this project is to make a visual website.
++ It should be like a summary of the project in the form of a website.
++ We exported the Miro sequence to Figma and shared it with the team, we even made a tiny rough layout of the website's interface.
+
+---
+
+### Here is the layout idea:
+![](<Images/CART 470 - Rough Layout Draft Figma.png>)
+
+---
+
++ Then we reorganized each team member's part in the Living Learning Contract.
++ We made a plan to call again on Monday, September 28th to finalize the Living Learning Contract together.
+
+---
+
+### The second meeting occured on Monday, September 28th
+We discussed:
++ Finalizing the Living Learning Contract.
++ Adding to our Fizzy Kanban all the new updated tasks we created in our Living Learning Contract.
