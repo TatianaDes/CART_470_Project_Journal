@@ -100,3 +100,4 @@ We discussed:
 We discussed:
 + Finalizing the Living Learning Contract.
 + Adding to our Fizzy Kanban all the new updated tasks we created in our Living Learning Contract.
++ Waiting to discuss further on Wednesday, September 30th.
