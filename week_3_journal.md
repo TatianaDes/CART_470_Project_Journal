@@ -43,7 +43,7 @@ Is the website a modular component of the whole Chutes/Seasons project or does i
 1. The website would be more of a at-home experience of the Chutes/Seasons project for now.
 2. There is a possibility of further adapting the website for lecture performances.
 +  For these performances, VK Preston was envisioning a possibility of full-body motion for navigating through the performance (VK had an idea of using a theremin).
-3. Ultiamtely, it is both a bit of a modular component of the whole project as well as a more standalone website.
+3. Ultimately, it is both a bit of a modular component of the whole project as well as a more standalone website.
 
 ---
 
@@ -78,11 +78,11 @@ For next weeks class on September 30th at 10:30a.m., VK Preston will pick us up 
 ## Our Team Calls and Discussions
 From our conversation with VK Preston, we made plans to write the Living Learning Contract by splitting of roles. Finally we would have a call two more times to finalize the contract.
 
-### The first meeting occured on Saturday, September 26th
+### The first meeting occurred on Saturday, September 26th
 We discussed:
 + Our part in this project is to make a visual website.
 + It should be like a summary of the project in the form of a website.
-+ We exported the Miro sequence to Figma and shared it with the team, we even made a tiny rough layout of the website's interface.
++ We exported the Miro sequence to Figma and shared it with the team. We even made a tiny rough layout of the website's interface.
 
 ---
 
@@ -96,7 +96,7 @@ We discussed:
 
 ---
 
-### The second meeting occured on Monday, September 28th
+### The second meeting occurred on Monday, September 28th
 We discussed:
 + Finalizing the Living Learning Contract.
 + Adding to our Fizzy Kanban all the new updated tasks we created in our Living Learning Contract.
