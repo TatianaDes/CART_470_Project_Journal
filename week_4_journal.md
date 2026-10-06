@@ -10,7 +10,7 @@ title: CART 470 Project Journal
 
 At the beginning of class we had our meeting with Sabine to discuss our ideas now that we met with our client. It was a very successful conversation since we were able to get a perspective from someone who knows how to scope down big ideas and concepts, and knows where to start. It was a big help getting that insight, since our team was struggling to know where to start with all the information that was given to us. Here are the main points we focused on for the website:
 
-1. Gamify the website to keep it dynamic and interesting to the viewer like Vk wanted.
+1. Gamify the website to keep it dynamic and interesting to the viewer like VK wanted.
    
 2. Whenever the user logs into the website, the website always starts somewhere new.
    
