@@ -46,7 +46,7 @@ As stated from the last journal, we went to the Visualization Studio in the libr
 We met Val, an electroacoustics alumni that has been helping with the sound recording for VK's project. 
 
 She showed us her website:
-https://valentinaplata.com/2026/03/19/falls/
+[Clickable Text Here](https://valentinaplata.com/2026/03/19/falls/)
 
 And recommended björk's website as inspiration:
 https://www.bjork.com/
