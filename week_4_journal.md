@@ -46,18 +46,17 @@ As stated from the last journal, we went to the Visualization Studio in the libr
 We met Val, an electroacoustics alumni that has been helping with the sound recording for VK's project. 
 
 She showed us her website:
-[Clickable Text Here](https://valentinaplata.com/2026/03/19/falls/)
+[https://valentinaplata.com/2026/03/19/falls/](https://valentinaplata.com/2026/03/19/falls/)
 
 And recommended björk's website as inspiration:
-https://www.bjork.com/
-
+[https://www.bjork.com/](https://www.bjork.com/)
 
 These are the websites VK Preston recommended for inspiration:
-+ https://www.musee-mccord-stewart.ca/en/exhibitions/incipit-covid-19-photographs-michel-huneault/
++ [https://www.musee-mccord-stewart.ca/en/exhibitions/incipit-covid-19-photographs-michel-huneault/](https://www.musee-mccord-stewart.ca/en/exhibitions/incipit-covid-19-photographs-michel-huneault/)
 
-+ https://www.frieze.com/article/ritualistic-power-caconrad-poetry-2025-review
-
-+ https://ocula.com/artists/wolfgang-tillmans/
++ [https://www.frieze.com/article/ritualistic-power-caconrad-poetry-2025-review](https://www.frieze.com/article/ritualistic-power-caconrad-poetry-2025-review)
+  
++ [https://ocula.com/artists/wolfgang-tillmans/](https://ocula.com/artists/wolfgang-tillmans/)
 
 We then saw the Miro sequence on the big screen of the Visualization Studio and got a visual of how VK really wants a consistent flow of images as well as the users ability to scroll around and move the website around.
 
