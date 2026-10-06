@@ -93,7 +93,9 @@ We all came to the call with our wireframes very rough, but good enough to give 
 Maybe this is not the best idea, but we decided that until Wednesday, we will make our wireframes more usable and understandable, and we hope that VK Preston likes elements of each and from there we can piece together a website with all of our ideas.
 
 ## Here is my mockup wireframe on Figma
-https://www.figma.com/design/rxmpCm4o6RFGIZ8Q4Tuncn/CART-470---Mockup-Wireframe-For-VK-Preston?node-id=0-1&t=Eaa3wJX6FxUNDWex-1
+[https://www.figma.com/design/rxmpCm4o6RFGIZ8Q4Tuncn/CART-470---Mockup-Wireframe-For-VK-Preston?node-id=0-1&t=Eaa3wJX6FxUNDWex-1
+](https://www.figma.com/design/rxmpCm4o6RFGIZ8Q4Tuncn/CART-470---Mockup-Wireframe-For-VK-Preston?node-id=0-1&t=Eaa3wJX6FxUNDWex-1
+)
 
 ### Here is an image of my wireframe:
 ![](<Images/CART 470 - Mockup Wireframe.png>)
