@@ -8,7 +8,7 @@ title: CART 470 Project Journal
 
 ### Meeting with Sabine and what we discussed:
 
-At the beginning of class we had our meeting with Sabine to discuss our ideas now that we met with out client. It was a very successful converstation since we were able to get a perspective from someone who knows how to scope down big ideas and concepts, and knows where to start. It was a big help getting that insight, since our team was struggling to know where to start with all the information that was given to us. Here are the main points we focused on for teh website:
+At the beginning of class we had our meeting with Sabine to discuss our ideas now that we met with our client. It was a very successful conversation since we were able to get a perspective from someone who knows how to scope down big ideas and concepts, and knows where to start. It was a big help getting that insight, since our team was struggling to know where to start with all the information that was given to us. Here are the main points we focused on for the website:
 
 1. Gamify the website to keep it dynamic and interesting to the viewer like Vk wanted.
    
@@ -24,7 +24,7 @@ At the beginning of class we had our meeting with Sabine to discuss our ideas no
 
 7. How will we integrate the information page/project brief into the website.
 
-8. Where will this website be hosted.
+8. Where will this website be hosted?
 
 9. What environment will we use to run this website (test multiple environments).
 
@@ -32,7 +32,7 @@ At the beginning of class we had our meeting with Sabine to discuss our ideas no
 
 11. No WordPress
 
-We ultiamtely came to the conclusion that before we speak to VK about the website and ask more questions about the website, we should come up together with a goal to have accomplished for next week. To make Vk Preston's job easier, by having concrete visuals as to what we are envisioning for the website, we would each make a rough wireframe to present to VK Preston.
+We ultimately came to the conclusion that before we speak to VK about the website and ask more questions about the website, we should come up together with a goal to have accomplished for next week. To make Vk Preston's job easier, by having concrete visuals as to what we are envisioning for the website, we would each make a rough wireframe to present to VK Preston.
 
 ### Our Goal
 + We make five rough wireframes.
@@ -84,12 +84,12 @@ We then saw the Miro sequence on the big screen of the Visualization Studio and 
 Ultimately with all this new information, our team of five decided to have a call on Thursday, October 1st to go over what we understood from the meet up and clarify our objectives.
 
 ### Team meeting Thursday, October 1st
-We got together as a team on call and discussed our perspectives, ultimately we just came up with making our wireframes as soon as possible so that we could all understand what we understood form the meetups.
+We got together as a team on call and discussed our perspectives, ultimately we just came up with making our wireframes as soon as possible so that we could all understand what we understood from the meetups.
 
 We made plans to call again on Monday, October 5th to go over our wireframes and pick three.
 
 ### Team meeting Thursday, October 5th
-We all came to the call with our wireframes very rough, but good enough to give us all ideas, but because all of us had very very different perspectives and focuses in our wireframes, we could not just choose three. 
+We all came to the call with our wireframes very rough, but good enough to give us all ideas, but because all of us had very very different perspectives and focuses on our wireframes, we could not just choose three. 
 
 Maybe this is not the best idea, but we decided that until Wednesday, we will make our wireframes more usable and understandable, and we hope that VK Preston likes elements of each and from there we can piece together a website with all of our ideas.
 
