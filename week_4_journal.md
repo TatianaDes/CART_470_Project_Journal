@@ -106,3 +106,7 @@ https://www.figma.com/design/rxmpCm4o6RFGIZ8Q4Tuncn/CART-470---Mockup-Wireframe-
 + Discuss further with her of what we should aim for.
 + Show VK Preston our wireframes.
 + Know what wireframe/elements they like the most and make a new wireframe from that information.
+
+
+## Our Fizzy Kanban
+We added all of our Figma wireframe links to the Fizzy Kanban.
