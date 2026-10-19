@@ -37,5 +37,36 @@ The questions we were going to ask were:
 
 ### Meeting with VK and team Wednesday, October 14th
 
+Our meeting with VK Preston and their team was not what we were anticipating or hoping for, in short they ultiamtely did not like the website-look of the website, they invisioned more of what they had in their Miro sequence which was a flow of images. It was a very confusing meeting filled with a lot of discouragement and most if not all our questions not being answered because our prototype was immedately turned down. 
+
+However, here are the notes we took of some of the helpful information:
+
++ They wanted more of a storyborad flow and visual in comparison to a visual board of just images.
++ Put an emphasis on the visual identity of the website and have subtle, but evident visuals to help the user know when to scroll or interact with the website as well as show that the website can continue to scroll in various directions.
++ The subtle but evident visual could be a current that directs the user to follow it.
++ Possibly having an auto-scroll option.
++ Photographs organized like a studio website or Tilman's studio website: [https://www.nytimes.com/2022/09/08/arts/design/moma-wolfgang-tillmans-review.html](https://www.nytimes.com/2022/09/08/arts/design/moma-wolfgang-tillmans-review.html)
++ Website should be a reflection of the live performance/presentation.
++ More connected to the Miro digital scroll.
++ Keep the aesthic white on white to represent a hospital.
++ Have words from the poem when interacted with activate the sound clips.
++ The visual identity should be like documentary artifacts on a white background, like a museum wall aesthetic.
++ They will draw their own spiral on paper and scan it so it can be used implemented into the website.
++ They want to keep the disappearing navigation bar.
++ They want the font to be all caps Helvetica italics.
++ They want a more ink like appearence so it looks like scans of paper.
+
+Next week they should have for us:
++ Drawings of shorelines and swirls scanned to be able to implement them into teh website.
++ A potential host for the website as long as we write down the requirements we are looking for from a host so that we are not limited, and what we do not want for hosting so that they know what not to use for hosting.
+
+Ultimately, it was a very discouraging call with a lot to be desired and teh fear of having to start over completely with much less time. So we decided to contact Sabine to have a call with her and see her perspective of it all and what she expects from us now that we have to basically start over.
 
 ### Meeting with Sabine Wednesday, October 14th
+
+
+## Now the Goal is
+
+
+
+## Our Fizzy Kanban
