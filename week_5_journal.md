@@ -64,9 +64,26 @@ Ultimately, it was a very discouraging call with a lot to be desired and teh fea
 
 ### Meeting with Sabine Wednesday, October 14th
 
+The meeting with Sabine was a lot more comprehensive and encouraging where we felt that we truly did not have to start over completely, we just had to fix what we had and change it visually.
+Here are the pointers she gave:
++ Make different variations of the third flow which was the seasons page.
++ Perhaps not have a completely white background or palette and instead have lighter colours or different shades of white and not pure white.
++ The spiral or wave should be more of a watermark or suggestive and less prominent.
++ Show VK Preston a version with their pictures instead of placeholder boxes, so that they can see exactly how it could look.
++ Change the sizes of the images so that they are different and unique.
++ The images could have a texture visually or in an animation kind of way, with effects such as blur into focus, zoom, etc.
++ The variations should showcase different types of movement the website could have to give insiration to VK.
++ Ultiamtely if there is a lot of pushback from VK throughout the entire process, it is okay to have an unfinished website as long as there has been progress. 
++ Most importantly, we should discuss with VK the next time we see them exactly what their expectation is for us by the end of the semester, so that we get done as much as they want before they are left to fill out the website on their own.
 
-## Now the Goal is
-
-
+## Now the Goal is for our meeting with Sabine and VK Preston next week
++ Have multiple variations of the website with actual images, as well as image movement and effects.
++ Try new palettes that follow the white theme but may not be pure white.
++ Come up with a list of requirments for the hosting platform.
 
 ## Our Fizzy Kanban
+We added cards in our "Tasks" section such as "Scrolling code prototype," to test out a horizontal then vertical scroll in code to see how feasible it is for the end product (The deadline would be after the reading week). We also added "Data handling system" to the "Tasks" section so that we know we must figure out something that we can build the rendering JS around.
+
+We added a card in our "Features" section such as "Backend interface," Where we are wondering what our database will be and if it will be a JSON framework.
+
+Finally, in our "In-progress" section we have a card for "Wirefrane to Mid/High-Fidelity Prototype," and while this was made for our initial unofficial prototype we showed to VK on Wednesday, October 14th, because of the instructions we were given, we will continue to try to make other unofficial prototypes to show to VK Preston for Wednesday, October 21st instead.
