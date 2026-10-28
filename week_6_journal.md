@@ -25,12 +25,14 @@ Here are the pointers that Sabine gave to us for the meeting with VK that was ha
 ## Here are images of Michael's prototype (which ultimately was the prototype we showed VK first):
 ![](<Images/Michael's Prototype Part 1.png>)
 ![](<Images/Michael's Prototype Part 2.png>)
+
 ---
 
 ## Here is an image of Mars' prototype with different colour variations:
 ![](<Images/Mars' Prototype + Colour Variations.png>)
 
 ---
+
 ## Here is Michael's gallery prototype:
 ![](<Images/Michael's Gallery Prototype.png>)
 
@@ -57,7 +59,8 @@ Here is what VK gave us as directions:
 + Perhaps if the user does not touch the page for a couple minutes, the website will scroll automatically.
 
 ## Here is an image of prototype we made while VK was giving us suggestions (this vision is now more what they are really looking for):
-![](<Images/Mockup Prototype Made With VK.png>)
+![](<Images/Mockup Prototype Made With VK Part 1.png>)
+![](<Images/Mockup Prototype Made With VK Part 2.png>)
 
 ---
 
