@@ -7,13 +7,13 @@ title: CART 470 Project Journal
 ## Journal Entry Week 7
 
 ### No team meeting before Wednesday, October 28th
-Our team was once again very busy and did not have times that lined up to call or to work together on the website. So on Wedensday, October 28th, in class, we decided to split roles to facilitate everyones life and to get our midterm presentation done. 
+Our team was once again very busy and did not have times that lined up to call or to work together on the website. So on Wednesday, October 28th, in class, we decided to split roles to facilitate everyone's life and to get our midterm presentation done. 
 
 ### We decided that:
 * Michael and Marge would do the coding of the website.
 * Mars, Scarlett and I would make the presentation slides and script
 
-After we would be done the presentation slides and script, we would get together and go over it with everyone to make sure we did not miss anything and add things where needed.
+After we would finish the presentation slides and script, we would get together and go over it with everyone to make sure we did not miss anything and add things where needed.
 
 ### No VK meeting
 We also asked VK when would be the best time for a call with them to go over what we had so far with the coded website. They told us they would be available Friday, October 30th in the afternoon or Monday, November 2nd in the afternoon, but unfortunately none of these times worked out for enough of us in the team. So our team decided that instead we would make a video of how the website looks currently and send them that video by Monday, November 2nd, we emailed them exactly that. They never responded to that email.
@@ -51,7 +51,7 @@ This did not go according to plan.
 
 We ended up not really skimming the presentation together, and not filming the website because the team thought it was not ready yet to show to VK, and while that is fine, I promised VK a video even if they still never ended up writing back. But I trust my team, and they said that we would take a video at the end of the week. So that is the goal I am striving for.
 
-The good news, Mars and I established to call on the next day, Tuesday, November 3rd, to finalize the script and presentation.
+The good news, Mars and I decided to call on the next day, Tuesday, November 3rd, to finalize the script and presentation.
 
 ### Meeting with Mars and I for the presentation and script Tuesday, November 3rd
 Mars and I called to finalize the script and presentation slides. We went over every part and fixed what was missing, what needed to be explained more, and took out what was not needed.
@@ -79,7 +79,7 @@ This website can be scrolled through using the left and right arrow keys.
 ## Now the goal for this week is:
 * Finish midterm presentation.
 * Give roles to everyone for different parts of the website (some of us, including I, will have to learn how Next.js works first) so that we are all doing small parts that can all come together in the end.
-* Finally send VK a video of what we have created in the website even if they still have not answered our email.
+* Finally send VK a video of what we have created on the website even if they still have not answered our email.
 * Get feedback from VK hopefully, so we can continue to improve the website.
 
 ## Our Fizzy Kanban
@@ -89,4 +89,4 @@ We added a card in our "Paused" section such as "Scrolling Code," where we wante
 
 In our "In-progress" section, we have a card for "Navbar + 'About' Modal," where we want to be able to implement the disappearing navbar when the mouse is not hovering on it, and we want to create an "About" modal we can show and hide.
 
-Finally, in our "Done" section, we have moved the card, "Class Presentation Preparation" into it, since I finished commenting what I and Scarlett or I and Mars had done together for the presentation, and now the preparation is done and the presentation is ready.
+Finally, in our "Done" section, we have moved the card, "Class Presentation Preparation" into it, since I finished commenting about what Scarlett and I, or Mars and I, had done together for the presentation, and now the preparation is done and the presentation is ready.
