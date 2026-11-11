@@ -26,8 +26,11 @@ Unfortunately, VK Preston for the last two weeks has completely not spoken to us
 They responded back saying that that works for them. So at least now we will be able to show them our progress in person and we have gotten more done than what we had before.
 
 
-## Here is what Michael and Marge have been working on on the website:
+## What Michael and Marge have made and are planning to make for the website:
+* Marge has made a navbar that has the team name "if&" that when clicked on creates a pop-up of the about and credits. The navbar is also disappearing when the cursor is not on the top of the screen.
+* They also plan to make another navbar at the beggining of the website so that users can navigate the website immediately at the start, but when the are scrolling around, they can use the disappearing and reappearing navbar to navigate whenever.
 
+Unfortunately, they have not 
 
 ---
 
