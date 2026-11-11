@@ -30,13 +30,30 @@ They responded back saying that that works for them. So at least now we will be 
 * Marge has made a navbar that has the team name "if&" that when clicked on creates a pop-up of the about and credits. The navbar is also disappearing when the cursor is not on the top of the screen.
 * They also plan to make another navbar at the beggining of the website so that users can navigate the website immediately at the start, but when the are scrolling around, they can use the disappearing and reappearing navbar to navigate whenever.
 
-Unfortunately, they have not 
-
----
+Unfortunately, they have not pushed the code yet so I am not able to see this, but from our call, these elements were shown to us through screen sharing and the future plans were stated to us.
 
 ## This week's productivity
-
+This week I have once again been very busy with projects and quizes due every week that it has been hard to find time to work, but as soon as we get together as a team on Wednesday, I know I will become more productive because I will have a better sense of direction for myself and how I want to contribute to the project.
 
 ## Now the goal for this week is:
+* Speak with VK Preston after a long time and see what they say about the current website.
+* Work in real-time with them since that was so helpful and beneficial the last time.
+* Either know exactly how the images and videos should be organized on the website, or have a general direction of what they want, have them write down the order of ideas, and stick by that exact idea (they have been flip-flopping between hosital first or falls first since the start).
+* Be able to all be on the same page for understanding how the website works.
+* Continue with navigation bars and working on auto-scrolling. 
 
 ## Our Fizzy Kanban
+The only new things in our Fizzy Kanban are our "Tasks" section we added cards such as "Effect handling for visuals" and "Landing page / starting group of Fall." The card "Backend interface" was moved back to "Tasks" and the card "Find hosting for images and videos" is still in "Tasks" because VK has still not given us an idea of what to use.
+
+"Effect handling for visuals" is for the website's front end to understand what to do with an effect flags from JSON.
+The current list includes:
+* Scroll parallax
+* Mouse position offset
+* Scroll gradient blend mode
+* Progressive blur
+* Edge modes
+* Blur styles from progressiveblur component
+
+"Landing page / starting group of Fall" is the creation of a Fall page that would have the title of the project as well as motifs and a group containing all teh Fall elements.
+
+"Backend interface" we put back in "Tasks" because we have to be thinking now about how we want the backend to be and what to use as well as who will be working on it.
