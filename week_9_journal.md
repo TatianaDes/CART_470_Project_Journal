@@ -20,7 +20,7 @@ For the backend:
 As for VK we were advised to:
 * Bring up how the end of semester is getting closer and in order to finish we need to work very hard now more than ever.
 
-### Team Roles
+## Team Roles
 As for team roles, we looked over the roles in the Fizzy Kanban with Sabine and gave each of us a role. (I will speak further on this in the Fizzy Kanban section).
 
 For Marge:
@@ -41,7 +41,8 @@ For Scarlette:
 
 For Tatiana (Me):
 * I am tasked to work on the preparing/loading screen possibly with promise or with lazy loading.
-* I have never doen this before, so I will do my own research but was also told that Sabine can help.
+* I have never done this before, so I will do my own research but was also told that Sabine can help.
+* I was also tasked to find the hosting for images and videos by contacting Oswaldo, the coordinator of audio and video in the Fine Arts Department. As a team we established that we would come up with the email together, but I would be the head sender and information gatherer.
 
 ### Meeting with VK Wednesday, November 11th
 The meeting with VK was much shorter than usual and less with a tone of "here is what we have how can we improve" and more of a "here is what we have, we are still working on it, here is what you can do for us." Therefore, while we did want to see if we were on the right track since we had not been able to show them the website version before this meeting, we tried to make the focus more on us and what we needed from them to go on further. Here is what we discussed:
@@ -74,9 +75,30 @@ Here is a link to the static site version that is changed automatically every Gi
 [https://mvlamis.github.io/falls-chutes/](https://mvlamis.github.io/falls-chutes/)
 
 ## This week's productivity
-
+I will be honest, with everything going on on my end, with other classes of high demand of work in short periods, I have put this work to the side. I cannot say I have properly looked over any lazy loading techniques or promise. I am unfortinuely falling back without realizing how near the end of the semester is. I am hoping that I utilize these last couple weeks to teh best of my capabilities so that I do not disappoint my team. 
 
 ## Now the goal for this week is:
-
+* Get back with my team, to understand my role better and find some resources to help.
+* Get more insite from VK on how to improve what we currently have.
+* Establish a day to speak with Sabine to go over loading and what that means and how it works (I really need a refresher on coding and website design).
 
 ## Our Fizzy Kanban
+In our "Maybe?" secontion we added the cards "Scrolling Code" and "Fix trackpad side-scrolling" because they are not the most important part of the website since they are just features, but they would be nice to implement eventually if we can and have time.
+
+In our "Peer-Review" section, the card "Navbar + 'About' Modal" was moved so that the team can check out how the navbar functiosn throughout the website.
+
+Finally, in our "Tasks" section, everything is the same from last time, but now the tasks are assigned.
+
+The card "Effect handling for visuals" was assigned to Marge.
+
+The card "Preparing / Loading Screen" was assigned to Tatiana (Me).
+
+The card "Find hosting for images and video" was assigned to Tatiana (Me).
+
+The card "Backend interface" was assigned to Micahel.
+
+The card "Landing page / starting group of Fall" was assigned to Mars.
+
+Scarlette's task was not yet added to teh Fizzy Kanban, but for our meeting on Wednesday, November 18th, we will discuss what to add in teh Kanban for Scarlette so they have a reference of what to do.
+
+The card assignment was jsut to visually see what task each of us have to do, but the main roles are what I established before.
