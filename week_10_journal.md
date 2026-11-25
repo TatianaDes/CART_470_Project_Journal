@@ -11,18 +11,18 @@ This meeting with Sabine focused on putting all necessary things we need from VK
 * When creating a template for VK that they can manipulate and change the order and organization of the images, it must be flexible enough that if they want to make a big change of order or layout, it can easily be changed.
 * The landing page should be its own separate template and should also be as customizable for VK as the website.
 * If VK ends up wanting it on an Ipad, we should make the website Ipad friendly in terms of size and graphics.
-* Ultiamtely, if we do not end up having time to finish the website, it can just run locally and not publicly.
+* Ultimately, if we do not end up having time to finish the website, it can just run locally and not publicly.
 * We were advised to make a checklist to have with us and send to them. It should have what we need from them and the days we need them to give it to us. 
-* This will cause them to shorten their view on the timeframe they have with us and know exactly what wwe need.
+* This will cause them to shorten their view on the timeframe they have with us and know exactly what we need.
 
 ### Meeting with VK Wednesday, November 18th
-This meeting with VK, even though it was online, was very sucessful, and the outcome proves it. We spoke about how we needed them to give us the images, videos, and poems, as well as the order in which tehy wanted everything.
+This meeting with VK, even though it was online, was very successful, and the outcome proves it. We spoke about how we needed them to give us the images, videos, and poems, as well as the order in which they wanted everything.
 
 They said that they were continuing to add everything to the google drive and that they were currently, on a big paper scroll, visualizing how they see each image, video, and poem.
 
 We also brought up that we needed at least one sound recording for the website, which they said they would get into contact with their composer Val to give us that recording.
 
-As for the ink spiral they said they would do, it was not as in high demand but we brought it up and they said they would get that done for us as soon as they get the right sized paper.
+As for the ink spiral they said they would do, it was not as in high demand but we brought it up and they said they would get that done for us as soon as they got the right sized paper.
 
 ### Here is the checklist with the dates and expectations
 * Final image selection + final order / layout of content. Which means photos of paper scroll + video of paper scroll + individual images BY MONDAY, NOVEMBER 23.
@@ -33,7 +33,7 @@ As for the ink spiral they said they would do, it was not as in high demand but 
 ### Communication from VK Preston
 With the checklist in place, VK was very productive, and as established, they sent us an email on Sunday, November 22nd that all the images, videos, and poems were on the google drive and so were the scrolls of how they should be organized.
 
-We even recieved an email from Val giving us the recording that they took in both WAV and Mp3 format.
+We even received an email from Val giving us the recording that they took in both WAV and Mp3 format.
 
 All in all to say, the checklist was a perfect idea and really got the ball rolling.
 
@@ -74,4 +74,4 @@ My goal after that is to focus my attention completely on making the loading scr
 ## Our Fizzy Kanban
 Our Fizzy Kanban is mostly the same, the only main differences are that all the cards that were in the "Tasks" section are now moved to the "In-Progress" section such as; "Preparing/loading screen," "Effect handling for visuals," "Landing page/starting group of Fall," and "Data handling system."
 
-The only card still left in "Tasks" is "Find hosting for images and videos." This is because it is not clear if we should be contacting Oswaldo, or if VK has the hosting taken care. It still is going to be hosted by LeParc from what we understand, but we are just not sure if we should be the person contacting them, or VK.
+The only card still left in "Tasks" is "Find hosting for images and videos." This is because it is not clear if we should be contacting Oswaldo, or if VK has the hosting taken care of. It still is going to be hosted by LeParc from what we understand, but we are just not sure if we should be the person contacting them, or VK.
