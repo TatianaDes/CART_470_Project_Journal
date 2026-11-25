@@ -57,8 +57,21 @@ So now, my goal is to work on the loading page to make it look the way my team e
 
 ## Here are images of what I have done for the loading screen, I still have a long way to go:
 
+---
+
+![](<Images/Preparing Loading Screen.png>)
+![](<Images/Done Loading Screen.png>)
+
+---
 
 ## Now the goal for this week is:
+I am hoping to get together with my team in class and we can discuss how we will integrate the images into the website and review everything that has been sent to us together. 
 
+I am hoping that for me, with my team we can discuss what they want the loading screen to look like so I have a better idea of what I am going towards in terms of layout.
+
+My goal after that is to focus my attention completely on making the loading screen better, so I can give it to my team by Wednesday, December 2nd. Hopefully, if I give it to them early enough, they can teach me how to connect my code to their code for the website.
 
 ## Our Fizzy Kanban
+Our Fizzy Kanban is mostly the same, the only main differences are that all the cards that were in the "Tasks" section are now moved to the "In-Progress" section such as; "Preparing/loading screen," "Effect handling for visuals," "Landing page/starting group of Fall," and "Data handling system."
+
+The only card still left in "Tasks" is "Find hosting for images and videos." This is because it is not clear if we should be contacting Oswaldo, or if VK has the hosting taken care. It still is going to be hosted by LeParc from what we understand, but we are just not sure if we should be the person contacting them, or VK.
